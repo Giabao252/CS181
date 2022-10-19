@@ -1,0 +1,20 @@
+<?xml version='1.0', encoding='UTF-8'?>
+
+<indicators>
+
+<country code='FRA' name='France'></country>
+    <timedata year='2007'>
+        <pop>64</pop>
+        <gdp>2657.21</gdp>
+    </timedata>
+    <timedata year='2017'>
+        <pop>66.87</pop>
+        <gdp>2586.59</gdp>
+    </timedata>
+
+<country code='GBR' name='Great Britain'></country>
+    
+
+<country code='USA' name='Unted States'></country>
+
+</indicators>
